@@ -1,4 +1,8 @@
-
+.test {
+    width: auto;
+    height: 200px;
+  }
+  
 .custom-navbar{
     height: 70px;
 }
